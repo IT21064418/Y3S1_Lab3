@@ -1,0 +1,19 @@
+{
+  "name": "y3s1_lab3",
+  "version": "1.0.0",
+  "description": "lab3 exercises",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT21064418/Y3S1_Lab3.git"
+  },
+  "author": "Supun Kariyawasam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT21064418/Y3S1_Lab3/issues"
+  },
+  "homepage": "https://github.com/IT21064418/Y3S1_Lab3#readme"
+}
